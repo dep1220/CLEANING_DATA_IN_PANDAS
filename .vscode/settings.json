@@ -8,4 +8,5 @@
   "workbench.colorTheme": "Mayukai Dark",
   "terminal.integrated.fontFamily": "Cascadia Mono",
   "terminal.integrated.tabs.defaultColor": "terminal.ansiBlue",
+  "python.analysis.typeCheckingMode": "basic",
 }
